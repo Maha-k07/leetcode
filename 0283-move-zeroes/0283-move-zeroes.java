@@ -6,8 +6,8 @@ class Solution {
                 nums[ind++]=nums[i];
             }
         }
-        while(ind<nums.length){
-            nums[ind++]=0;
-        }
-    }
+            while(ind<nums.length){
+                nums[ind++]=0;
+            }
+    }        
 }
