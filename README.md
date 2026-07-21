@@ -24,6 +24,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Maha-k07/leetcode/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Maha-k07/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Maha-k07/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
@@ -41,4 +42,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Maha-k07/leetcode/tree/main/0258-add-digits/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Maha-k07/leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
