@@ -18,13 +18,16 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Maha-k07/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Maha-k07/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Maha-k07/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Maha-k07/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/Maha-k07/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Maha-k07/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Maha-k07/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Maha-k07/leetcode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
