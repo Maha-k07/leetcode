@@ -20,6 +20,7 @@
 | [0258-add-digits](https://github.com/Maha-k07/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Maha-k07/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Maha-k07/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/Maha-k07/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Maha-k07/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | [0231-power-of-two](https://github.com/Maha-k07/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Maha-k07/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Maha-k07/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/Maha-k07/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Maha-k07/leetcode/tree/main/0136-single-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Maha-k07/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Maha-k07/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
