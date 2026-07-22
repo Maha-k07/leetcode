@@ -47,6 +47,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Maha-k07/leetcode/tree/main/0046-permutations/) | Medium |
 | [0136-single-number](https://github.com/Maha-k07/leetcode/tree/main/0136-single-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -56,4 +57,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Maha-k07/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Maha-k07/leetcode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
