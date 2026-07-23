@@ -39,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Maha-k07/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0867-transpose-matrix](https://github.com/Maha-k07/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Maha-k07/leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0046-permutations](https://github.com/Maha-k07/leetcode/tree/main/0046-permutations/) | Medium |
 | [0136-single-number](https://github.com/Maha-k07/leetcode/tree/main/0136-single-number/) | Easy |
+| [0867-transpose-matrix](https://github.com/Maha-k07/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Maha-k07/leetcode/tree/main/0046-permutations/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Maha-k07/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
